@@ -1,6 +1,6 @@
-# QoS-Prediction-DNM
+# DNM
 【TSC 2021】 Multiple Attributes QoS Prediction via Deep Neural Model with Contexts
-'''
+```
 @article{WuZLYH21,
   author       = {Hao Wu and
                   Zhengxin Zhang and
@@ -16,8 +16,8 @@
   url          = {https://doi.org/10.1109/TSC.2018.2859986},
   doi          = {10.1109/TSC.2018.2859986}}
 }
-'''
-#requirements
+```
+# requirements
 tensorflow-gpu=1.15.0
 numpy
 sklearn
