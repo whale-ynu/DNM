@@ -18,10 +18,13 @@
 }
 ```
 # requirements
-tensorflow-gpu=1.15.0
-numpy
-sklearn
-argparse
-...
+* tensorflow-gpu=1.15.0
+* numpy
+* sklearn
+* argparse
+* ...
+# misc
+* Please create a folder named data/ and unzip QoS_Context.z01-z05.
+* Also, please directly unzip _wsdl.zip.
 
 
