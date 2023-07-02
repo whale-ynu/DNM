@@ -1,5 +1,4 @@
-# DNM
-【TSC 2021】 Multiple Attributes QoS Prediction via Deep Neural Model with Contexts
+# Reference
 ```
 @article{WuZLYH21,
   author       = {Hao Wu and
@@ -17,13 +16,13 @@
   doi          = {10.1109/TSC.2018.2859986}}
 }
 ```
-# requirements
+# Requirements
 * tensorflow-gpu=1.15.0
 * numpy
 * sklearn
 * argparse
 * ...
-# misc
+# Misc
 * Please create a folder named data/ and unzip QoS_Context.z01-z05.
 * Also, please directly unzip _wsdl.zip.
 
